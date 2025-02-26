@@ -1,0 +1,20 @@
+body {
+    background-image: radial-gradient(pink, purple, violet);
+    margin: auto;
+    
+
+}
+
+
+
+div  {
+    background-color: white;
+    border:  10px dashed purple ;
+    border-radius: 100px;
+    padding: 50px;
+    margin: 240px;
+}
+
+
+
+
