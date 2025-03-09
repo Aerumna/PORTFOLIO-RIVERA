@@ -10,10 +10,10 @@ body {
 
 div  {
     background-color: white;
-    border:  10px dashed purple ;
-    border-radius: 100px;
+    border:  8px dashed purple ;
+    border-radius: 80px;
     padding: 50px;
-    margin: 240px;
+    margin: 255px;
 }
 
 
